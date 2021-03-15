@@ -1,4 +1,4 @@
 # HEG
 Scripts for calculations related to Homogeneous Electron Gas (HEG)
 
-**Lindhard_3d.ipynb** - Construction of Lindhard function for three-dimensional HEG along imaginary frequency axis numerically stable for wide region in the space of momentum and frequency.
+**Lindhard_3d.ipynb** - Construction of Lindhard function along imaginary frequency axis for three-dimensional HEG numerically stable for very wide ranges of momentum and frequency.
